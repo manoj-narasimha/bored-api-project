@@ -1,0 +1,11 @@
+{
+  "name": "bored-api-project",
+  "version": "1.0.0",
+  "description": "This is a fun project made using bored api. It will suggest fun activities to do when you get bored. I am implementing this api in this website with good looking UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "M Manoj Narasimha",
+  "license": "ISC"
+}
