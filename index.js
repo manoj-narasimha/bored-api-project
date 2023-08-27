@@ -24,6 +24,6 @@ function getApi() {
     });
 }
 
-// window.onload = () => getApi();
+window.onload = () => getApi();
 
 // getApi()
